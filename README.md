@@ -1,16 +1,60 @@
-## Hi there 👋
+Security research across AI-integrated and agentic systems, web applications, distributed systems,
+and secure-by-design code.
 
-<!--
-**0x71pp17/0x71pp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything below is used in the repositories on this profile.
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+**AI & retrieval**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6F61.svg?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-%23D4A27F.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Testing & tooling**
+
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🔍 Focus areas
+
+**AI & agentic systems** — retrieval authorization and tenant isolation, direct and indirect prompt
+injection, guardrail evasion, agent memory persistence, and exfiltration through sanctioned
+channels.
+
+**Application & API security** — exploit-chain reasoning across web application and API attack
+surface, walked through so the attack can be reconstructed from first principles.
+
+**Distributed systems** — protocol-layer and on-chain work: defensive build patterns for the EVM,
+each tied to the EIP and the failure mode it exists to prevent, and offensive work against financial
+state machines through worked solutions.
+
+---
+
+## 📂 What's here
+
+**[agentic-rag-tenant-lab](https://github.com/0x71pp17/agentic-rag-tenant-lab)** — Multi-tenant
+agentic RAG security lab. Four retrieval authorization flaws, five defense layers, measured attack
+success rates.
+
+**[lab-journal](https://github.com/0x71pp17/lab-journal)** — Technical write-ups and notes, with
+documented reproducible attack chains and analysis.
+
+**[modern-solidity-patterns](https://github.com/0x71pp17/modern-solidity-patterns)** — Defensive
+build reference for Solidity 0.8.x and the current EVM. The patterns, each stating the failure mode
+it prevents, grounded in the relevant EIPs and audited libraries.
