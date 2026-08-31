@@ -10,6 +10,8 @@ Everything below is used in the repositories on this profile.
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Move](https://img.shields.io/badge/Move-%234A90D9.svg?style=for-the-badge&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -25,6 +27,7 @@ Everything below is used in the repositories on this profile.
 
 ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
+![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -44,6 +47,10 @@ surface, walked through so the attack can be reconstructed from first principles
 each tied to the EIP and the failure mode it exists to prevent, and offensive work against financial
 state machines through worked solutions.
 
+**Runtime and VM layer** what a platform structurally enforces versus what it leaves to the
+developer, and differential testing across runtimes to find where two of them do observably
+different things with the same program.
+
 ---
 
 ## 📂 What's here
@@ -58,3 +65,11 @@ documented reproducible attack chains and analysis.
 **[modern-solidity-patterns](https://github.com/0x71pp17/modern-solidity-patterns)** — Defensive
 build reference for Solidity 0.8.x and the current EVM. The patterns, each stating the failure mode
 it prevents, grounded in the relevant EIPs and audited libraries.
+
+**[move-security-patterns](https://github.com/0x71pp17/move-security-patterns)** A defensive
+reference for building on Aptos Move, stating which layer of the platform covers each failure mode
+and how far that coverage reaches. Every pattern carries an adversarial test that tries the attack.
+
+**[runtime-differential](https://github.com/0x71pp17/runtime-differential)** Runs the same operation
+on more than one blockchain runtime and reports what each one did. It records no expectations, so a
+runtime changing behaviour changes the reading rather than failing against a recorded belief.
