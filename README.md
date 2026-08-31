@@ -11,8 +11,8 @@ Everything below is used in the repositories on this profile.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Move](https://img.shields.io/badge/Move-%234A90D9.svg?style=for-the-badge&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Move-%234A90D9.svg?style=for-the-badge&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -27,8 +27,8 @@ Everything below is used in the repositories on this profile.
 
 ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
-![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
+![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
