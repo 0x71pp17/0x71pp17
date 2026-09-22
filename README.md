@@ -31,6 +31,8 @@ Everything below is used in the repositories on this profile.
 ![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![golangci-lint](https://img.shields.io/badge/golangci--lint-%23F7DF1E.svg?style=for-the-badge&logoColor=black)
+![gosec](https://img.shields.io/badge/gosec-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
