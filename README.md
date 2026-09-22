@@ -55,14 +55,24 @@ different things with the same program.
 
 ## 📂 What's here
 
-**[agentic-rag-tenant-lab](https://github.com/0x71pp17/agentic-rag-tenant-lab)** — Multi-tenant
+**[agent-action-broker](https://github.com/0x71pp17/agent-action-broker)** Policy decision point for
+tool-using agents. Mediates each tool call by capability and information flow, fails closed, and
+returns a least-privilege downgrade on denial. Carries an audit trail and an AgentDojo-modeled
+evaluation reporting injection-block and utility rates.
+
+**[mcp-controlplane-scan](https://github.com/0x71pp17/mcp-controlplane-scan)** Scanner for the
+localhost HTTP control plane exposed by local AI tools and MCP servers. Flags DNS-rebinding,
+cross-site, and unauthenticated-read failure classes, and ships a hardened reference server that
+passes its own checks.
+
+**[agentic-rag-tenant-lab](https://github.com/0x71pp17/agentic-rag-tenant-lab)** Multi-tenant
 agentic RAG security lab. Four retrieval authorization flaws, five defense layers, measured attack
 success rates.
 
-**[lab-journal](https://github.com/0x71pp17/lab-journal)** — Technical write-ups and notes, with
+**[lab-journal](https://github.com/0x71pp17/lab-journal)** Technical write-ups and notes, with
 documented reproducible attack chains and analysis.
 
-**[modern-solidity-patterns](https://github.com/0x71pp17/modern-solidity-patterns)** — Defensive
+**[modern-solidity-patterns](https://github.com/0x71pp17/modern-solidity-patterns)** Defensive
 build reference for Solidity 0.8.x and the current EVM. The patterns, each stating the failure mode
 it prevents, grounded in the relevant EIPs and audited libraries.
 
