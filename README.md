@@ -66,6 +66,12 @@ scores agent-authorization defenses against the AgentDojo benchmark on injection
 utility, attributing each block to its cause through benign twins. Includes published results for
 a trained prompt-injection classifier.
 
+**[agent-trace-detections](https://github.com/0x71pp17/agent-trace-detections)** Detects
+cross-call and sequence-level attacks in agent execution traces that a per-call reference monitor
+cannot see. Reads OpenTelemetry GenAI spans and reports each finding with a false-positive rate
+measured against a benign twin. Three signatures across the cross-call and tool-integrity
+categories, with numbers pinned by a test.
+
 **[mcp-controlplane-scan](https://github.com/0x71pp17/mcp-controlplane-scan)** Scanner for the
 localhost HTTP control plane exposed by local AI tools and MCP servers. Flags DNS-rebinding,
 cross-site, and unauthenticated-read failure classes, and ships a hardened reference server that
