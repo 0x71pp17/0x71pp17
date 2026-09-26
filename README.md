@@ -9,8 +9,8 @@ Everything below is used in the repositories on this profile.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-%234A90D9.svg?style=for-the-badge&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -18,24 +18,25 @@ Everything below is used in the repositories on this profile.
 
 **AI & retrieval**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6F61.svg?style=for-the-badge&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-%23D4A27F.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-%23D4A27F.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6F61.svg?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Testing & tooling**
 
-![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
-![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
-![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![golangci-lint](https://img.shields.io/badge/golangci--lint-%23F7DF1E.svg?style=for-the-badge&logoColor=black)
 ![gosec](https://img.shields.io/badge/gosec-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![AgentDojo](https://img.shields.io/badge/AgentDojo-%23000000.svg?style=for-the-badge&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logoColor=white)
+![Aptos CLI](https://img.shields.io/badge/Aptos_CLI-%23000000.svg?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-%23427819.svg?style=for-the-badge&logoColor=white)
 
 ---
 
